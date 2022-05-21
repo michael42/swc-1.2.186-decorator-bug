@@ -1,0 +1,15 @@
+{
+  "name": "swc-decorators",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "swc test.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@swc/cli": "0.1.57",
+    "@swc/core": "1.2.187"
+  }
+}
